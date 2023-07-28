@@ -30,12 +30,12 @@ ignore_theme_config: true # this means to ignore theme's config _config.yml
 
 # Author Settings
 author: Pramod # add your name
-author-img: pramod.png # add your photo
+author-img: pramod.jpg # add your photo
 about-author: >-
-  I am a PhD student. 
-social-twitter: 
-social-github: 
-social-linkedin: 
+  I am a research scholar at Speech Processing Lab, IIIT Hyderabad. I am interested in speech processing, machine learning and deep learning.
+  I am a fitness enthusiast and I love to workout.
+social-github: Pramodnegi080
+social-linkedin: pramod-singh-negi
 social-instagram: 
 
 # Build settings
